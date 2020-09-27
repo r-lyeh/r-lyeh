@@ -1,8 +1,8 @@
 ###
 
 <div align="center">
-  <a target="_blank" href="https://twitter.com/r_rlyeh">Twitter</a><br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=r-lyeh&show_icons=true&hide_title=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=r-lyeh&show_icons=true&hide_title=true" /><br/>
+  <a target="_blank" href="https://twitter.com/r_rlyeh">Twitter</a>
 </div>
 
 <!--
