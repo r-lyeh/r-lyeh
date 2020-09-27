@@ -1,7 +1,7 @@
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=r-lyeh&show_icons=true&hide_title=true" /><br/>
+<div align="center" style="background-image: url('https://pbs.twimg.com/profile_banners/1240230358597144576/1584530059/1500x500');">
+  <img src="https://github-readme-stats.vercel.app/api?username=r-lyeh&theme=react&show_icons=true&hide_title=true" /><br/>
   <a target="_blank" href="https://twitter.com/r_rlyeh">Twitter</a>
 </div>
 
