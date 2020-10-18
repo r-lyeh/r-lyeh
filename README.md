@@ -1,11 +1,11 @@
 ###
 
-<div align="center" style="background-image: url('https://pbs.twimg.com/profile_banners/1240230358597144576/1584530059/1500x500');">
-  <img src="https://github-readme-stats.vercel.app/api?username=r-lyeh&theme=react&show_icons=true&hide_title=true" /><br/>
-  <a target="_blank" href="https://twitter.com/r_rlyeh">Twitter</a>
-</div>
+<a href="https://twitter.com/r_rlyeh">
+  <img src='https://pbs.twimg.com/profile_banners/1240230358597144576/1584530059/1500x500'/><br/>
+</a>
 
 <!--
+  <img src="https://github-readme-stats.vercel.app/api?username=r-lyeh&theme=react&show_icons=rue&hide_title=true" />
 **r-lyeh/r-lyeh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
