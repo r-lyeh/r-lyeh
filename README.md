@@ -4,8 +4,7 @@
   <img src='https://pbs.twimg.com/profile_banners/1240230358597144576/1584530059/1500x500'/><br/>
 </a>
 
-<p align="center"><sup><a href='https://github.com/user-attachments/assets/12647377-fa2a-49b8-9531-a04fcdb39f37'bitcoin:15ZiBrh9ccMpMJfRmEvBpZaiqLBKrMwU6j donation wallet</a>
-</sup></p>
+<p align="center"><sup>bitcoin:15ZiBrh9ccMpMJfRmEvBpZaiqLBKrMwU6j donation wallet</sup></p>
 
 
 
