@@ -4,7 +4,7 @@
   <img src='https://pbs.twimg.com/profile_banners/1240230358597144576/1584530059/1500x500'/><br/>
 </a>
 
-<p align="center"><sup>bitcoin:15ZiBrh9ccMpMJfRmEvBpZaiqLBKrMwU6j donation wallet</sup></p>
+<p align="center"><sup>bitcoin donation wallet : 15ZiBrh9ccMpMJfRmEvBpZaiqLBKrMwU6j</sup></p>
 
 
 
